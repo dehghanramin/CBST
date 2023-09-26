@@ -16,7 +16,7 @@
 CC = g++
 
 #flags
-CFLAGS = -g -Wall
+CFLAGS = -g -Wall -std=c++11
 
 #target
 TARGET = CBST
